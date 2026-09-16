@@ -1,0 +1,6 @@
+# 워크스페이스 루트용. 서브모듈은 각자 .gitignore 를 가진다.
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.claude/

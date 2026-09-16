@@ -1,0 +1,12 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/AOD-All-of-Dopamine/-AOD-All-of-Dopamine-back
+	branch = main
+[submodule "front"]
+	path = front
+	url = https://github.com/AOD-All-of-Dopamine/-AOD-All-of-Dopamine-front
+	branch = main
+[submodule "ai"]
+	path = ai
+	url = https://github.com/AOD-All-of-Dopamine/-AOD-All-of-Dopamine-AI
+	branch = main
